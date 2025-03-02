@@ -1,8 +1,6 @@
 👋 Hello
 
-I am currently a graduate student at the University of Washington - Seattle, pursuing Master of Science in Information Management with specializations in Data Science and Business Intelligence. 
-My passion lies in data analysis, and I am dedicated to leveraging advanced analytical techniques to tackle real-world problems.
-The primary programming languages I am focused on for analysis include R, Python, and SQL, which I use to extract insights and derive meaningful conclusions from complex datasets.
+Welcome to my space! A little about me: I'm currently a graduate student at the University of Washington in Seattle, working toward my Master of Science in Information Management. My focus is on using programming languages like R, Python, and SQL to analyze data and uncover insights that help make sense of complex datasets.
   
 
 <!---
